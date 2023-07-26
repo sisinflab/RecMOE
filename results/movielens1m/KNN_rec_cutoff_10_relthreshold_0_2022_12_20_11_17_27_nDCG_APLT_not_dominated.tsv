@@ -1,0 +1,17 @@
+model	nDCG	APLT
+UserKNN_nn=10_sim=dot_imp=standard_bin=False_shrink=10_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=	0.0571860460186829	0.4456788079470198
+UserKNN_nn=20_sim=dot_imp=standard_bin=False_shrink=10_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=	0.0744989032057651	0.425480132450331
+UserKNN_nn=30_sim=dot_imp=standard_bin=False_shrink=10_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=	0.089782620502147	0.4064072847682118
+UserKNN_nn=50_sim=dot_imp=standard_bin=False_shrink=10_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=	0.112272327256817	0.3837086092715231
+UserKNN_nn=100_sim=dot_imp=standard_bin=False_shrink=10_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=	0.1463779310504267	0.3359602649006623
+UserKNN_nn=150_sim=dot_imp=standard_bin=False_shrink=10_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=	0.1710038068337606	0.2951324503311258
+UserKNN_nn=200_sim=dot_imp=standard_bin=False_shrink=10_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=	0.1913211287702627	0.2569039735099337
+UserKNN_nn=250_sim=dot_imp=standard_bin=False_shrink=10_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=	0.2073451636563837	0.2292218543046357
+UserKNN_nn=150_sim=cosine_imp=standard_bin=False_shrink=10_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=	0.3426047627990611	0.0082119205298013
+UserKNN_nn=200_sim=cosine_imp=standard_bin=False_shrink=10_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=	0.3449280055433043	0.0058443708609271
+UserKNN_nn=250_sim=cosine_imp=standard_bin=False_shrink=10_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=	0.3460335054293093	0.0046192052980132
+UserKNN_nn=100_sim=cosine_imp=standard_bin=False_shrink=10_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=	0.3353717047723247	0.0129470198675496
+UserKNN_nn=50_sim=cosine_imp=standard_bin=False_shrink=10_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=	0.3146525132009121	0.0250331125827814
+UserKNN_nn=10_sim=cosine_imp=standard_bin=False_shrink=10_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=	0.2193697440031611	0.1202649006622516
+UserKNN_nn=30_sim=cosine_imp=standard_bin=False_shrink=10_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=	0.2926937039730234	0.044751655629139
+UserKNN_nn=20_sim=cosine_imp=standard_bin=False_shrink=10_norm=True_asymalpha=_tvalpha=_tvbeta=_rweights=	0.2686008665171297	0.0644536423841059

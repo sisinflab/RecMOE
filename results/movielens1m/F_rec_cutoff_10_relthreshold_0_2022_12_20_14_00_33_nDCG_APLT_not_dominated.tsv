@@ -1,0 +1,6 @@
+model	nDCG	APLT
+BPRMF_seed=42_e=300_bs=1_f=256_lr=0$001_bias_reg=0_u_reg=0$01_pos_i_reg=0$001_neg_i_reg=0$001_up_neg_i_f=True_up_u=True_up_i=True_up_b=True_it=300	0.3192535834470862	0.0006291390728476
+BPRMF_seed=42_e=300_bs=1_f=256_lr=0$001_bias_reg=0_u_reg=0$001_pos_i_reg=0$001_neg_i_reg=0$001_up_neg_i_f=True_up_u=True_up_i=True_up_b=True_it=300	0.3145210182648728	0.0010430463576158
+BPRMF_seed=42_e=300_bs=1_f=128_lr=0$001_bias_reg=0_u_reg=0$001_pos_i_reg=0$001_neg_i_reg=0$001_up_neg_i_f=True_up_u=True_up_i=True_up_b=True_it=299	0.3090235065075288	0.0010596026490066
+BPRMF_seed=42_e=300_bs=1_f=128_lr=0$001_bias_reg=0_u_reg=0$001_pos_i_reg=0$01_neg_i_reg=0$001_up_neg_i_f=True_up_u=True_up_i=True_up_b=True_it=300	0.2898080897645209	0.0014072847682119
+BPRMF_seed=42_e=300_bs=1_f=64_lr=0$001_bias_reg=0_u_reg=0$001_pos_i_reg=0$01_neg_i_reg=0$001_up_neg_i_f=True_up_u=True_up_i=True_up_b=True_it=300	0.2871291486158754	0.0017549668874172

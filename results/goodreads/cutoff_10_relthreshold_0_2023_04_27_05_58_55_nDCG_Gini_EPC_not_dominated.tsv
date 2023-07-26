@@ -1,0 +1,3 @@
+model	nDCG	Gini	EPC
+MultiVAE_seed=42_e=300_bs=256_intermediate_dim=50_latent_dim=300_reg_lambda=0_lr=0$001_dropout_pkeep=0$19999999999999996_it=133	0.0704393298842907	0.1014781237499055	0.0591966777526111
+MultiVAE_seed=42_e=300_bs=256_intermediate_dim=300_latent_dim=50_reg_lambda=0_lr=0$001_dropout_pkeep=0$19999999999999996_it=14	0.0708988931007122	0.0512589843333005	0.0597406797171309

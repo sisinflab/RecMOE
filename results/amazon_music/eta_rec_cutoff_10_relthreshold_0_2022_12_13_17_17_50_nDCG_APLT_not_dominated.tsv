@@ -1,0 +1,8 @@
+model	nDCG	APLT
+RP3beta_neighborhood=10_alpha=0$6_beta=1$5_normalize_similarity=True	0.0208521051333352	0.8956876132088617
+RP3beta_neighborhood=100_alpha=0$6_beta=1$5_normalize_similarity=True	0.02215938231798	0.8653755050856904
+RP3beta_neighborhood=200_alpha=0$6_beta=1$5_normalize_similarity=True	0.0222968272376682	0.8555036923505644
+RP3beta_neighborhood=100_alpha=1$0_beta=1$5_normalize_similarity=True	0.022545524209567	0.8227044726208722
+RP3beta_neighborhood=200_alpha=1$0_beta=1$5_normalize_similarity=True	0.022671644890007	0.8137452974780549
+RP3beta_neighborhood=300_alpha=1$0_beta=1$5_normalize_similarity=True	0.0227563062719897	0.8114811202452278
+RP3beta_neighborhood=10_alpha=0$6_beta=0$8_normalize_similarity=True	0.0413572616905318	0.784199526264456

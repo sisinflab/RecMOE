@@ -1,0 +1,2 @@
+model	nDCG	APLT
+LightGCN_seed=42_e=300_bs=256_lr=0$001_factors=256_l_w=0$001_n_layers=1_it=171	0.064329970980821	0.1298035390831824

@@ -1,0 +1,7 @@
+model	nDCG	APLT
+MultiVAE_seed=42_e=300_bs=256_intermediate_dim=100_latent_dim=100_reg_lambda=0_lr=0$001_dropout_pkeep=0$19999999999999996_it=96	0.3183267003332113	0.0447682119205298
+MultiVAE_seed=42_e=300_bs=256_intermediate_dim=200_latent_dim=200_reg_lambda=0_lr=0$001_dropout_pkeep=0$19999999999999996_it=65	0.314450749394063	0.0459602649006622
+MultiVAE_seed=42_e=300_bs=256_intermediate_dim=200_latent_dim=100_reg_lambda=0_lr=0$001_dropout_pkeep=0$19999999999999996_it=65	0.3119746936435906	0.0472350993377483
+MultiVAE_seed=42_e=300_bs=256_intermediate_dim=50_latent_dim=50_reg_lambda=0_lr=0$001_dropout_pkeep=0$19999999999999996_it=135	0.3222270000445748	0.0365728476821192
+MultiVAE_seed=42_e=300_bs=256_intermediate_dim=100_latent_dim=300_reg_lambda=0_lr=0$001_dropout_pkeep=0$19999999999999996_it=84	0.3189983538355683	0.037615894039735
+MultiVAE_seed=42_e=300_bs=256_intermediate_dim=200_latent_dim=50_reg_lambda=0_lr=0$001_dropout_pkeep=0$19999999999999996_it=77	0.3016672906715056	0.0512748344370861

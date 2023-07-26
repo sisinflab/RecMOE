@@ -1,0 +1,4 @@
+model	nDCG	Gini	EPC
+BPRMF_seed=42_e=300_bs=1_f=256_lr=0$001_bias_reg=0_u_reg=0$01_pos_i_reg=0$001_neg_i_reg=0$001_up_neg_i_f=True_up_u=True_up_i=True_up_b=True_it=300	0.3192535834470862	0.0370795208212424	0.2354784600229116
+BPRMF_seed=42_e=300_bs=1_f=256_lr=0$001_bias_reg=0_u_reg=0$001_pos_i_reg=0$001_neg_i_reg=0$001_up_neg_i_f=True_up_u=True_up_i=True_up_b=True_it=300	0.3145210182648728	0.0432622447854238	0.2339470204660887
+BPRMF_seed=42_e=300_bs=1_f=128_lr=0$001_bias_reg=0_u_reg=0$001_pos_i_reg=0$001_neg_i_reg=0$001_up_neg_i_f=True_up_u=True_up_i=True_up_b=True_it=299	0.3090235065075288	0.0434128830817572	0.2292625723802093

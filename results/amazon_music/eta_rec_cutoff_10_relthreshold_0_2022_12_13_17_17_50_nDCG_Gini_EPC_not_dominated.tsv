@@ -1,0 +1,7 @@
+model	nDCG	Gini	EPC
+RP3beta_neighborhood=300_alpha=1$0_beta=0$8_normalize_similarity=True	0.0351293063941364	0.650687508697944	0.0127096394357858
+RP3beta_neighborhood=200_alpha=1$0_beta=0$8_normalize_similarity=True	0.0353176337817601	0.6468079229650373	0.012777033367076
+RP3beta_neighborhood=300_alpha=0$6_beta=0$8_normalize_similarity=True	0.0360482974743751	0.6324495191058406	0.0132013194853953
+RP3beta_neighborhood=200_alpha=0$6_beta=0$8_normalize_similarity=True	0.036747342451657	0.6284855430666131	0.0134557950882721
+RP3beta_neighborhood=100_alpha=0$6_beta=0$8_normalize_similarity=True	0.0388498191724126	0.6077196450611747	0.0142431044748698
+RP3beta_neighborhood=10_alpha=0$6_beta=0$8_normalize_similarity=True	0.0413572616905318	0.4432695949313976	0.0152103703091931

@@ -1,0 +1,2 @@
+model	nDCG	APLT
+BPRMF_seed=42_e=300_bs=1_f=64_lr=0$001_bias_reg=0_u_reg=0$01_pos_i_reg=0$001_neg_i_reg=0$001_up_neg_i_f=True_up_u=True_up_i=True_up_b=True_it=232	0.011650225938063	0.0
